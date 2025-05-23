@@ -69,7 +69,7 @@ form > div.campo {
     background-color: #f1b7d2;
     width: 100%;
     display: block;
-    height: 40px;
+    height: 35px;
     border: 2px solid #ee0270;
     border-radius: 8px;
     margin: 5px 0px;
@@ -94,8 +94,8 @@ div.campo > input {
     height: 100%;
     border: 1px;
     border-radius: 8px;
-    padding: 4px;
-    transform: translateY(-12px);
+    padding: 5px;
+    transform: translateY(-14px);
 }
 
 div.campo > input:focus-within {
